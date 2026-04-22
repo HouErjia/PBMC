@@ -1,0 +1,7 @@
+"Metric","Test_Type","P_Value","Effect_Size","Effect_Size_Type","Normal_Healthy","Normal_Weaning","Equal_Variance","Significance"
+"GAA","Mann-Whitney U test",0.135349219568088,0.365217391304348,"Rank-biserial correlation",FALSE,FALSE,TRUE,"ns"
+"GAG","Mann-Whitney U test",0.135349219568088,0.634782608695652,"Rank-biserial correlation",FALSE,FALSE,TRUE,"ns"
+"AT3","Mann-Whitney U test",0.135349219568088,0.365217391304348,"Rank-biserial correlation",FALSE,FALSE,TRUE,"ns"
+"allAA_AT3","Student's t-test",0.597427186007242,-0.162730553797772,"Cohen's d",TRUE,TRUE,TRUE,"ns"
+"CG3","Mann-Whitney U test",0.135349219568088,0.634782608695652,"Rank-biserial correlation",FALSE,FALSE,TRUE,"ns"
+"allAA_CG3","Mann-Whitney U test",0.432669955653014,0.428260869565217,"Rank-biserial correlation",FALSE,TRUE,TRUE,"ns"
