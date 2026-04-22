@@ -6,8 +6,6 @@
 - data_raw/: 原始输入与参考文件（BAM/BAM 索引、原始统计输出、原始校验文件）
 - scripts/: 分析脚本（.R、.pl、.ipynb 等）
 - data_processed/: 中间结果与衍生表格
-- results/figures/: 图形结果（PDF 等）
-- manuscript/: 手稿及补充文档
 - metadata/: 样本与分组元数据
 - env/: 环境信息（sessionInfo.txt）
 
@@ -16,12 +14,9 @@
 - D:\PBMC交接\fig2_add_Hou -> scripts/fig2_add_Hou/、data_processed/fig2_add_Hou/、results/figures/fig2_add_Hou/
 
 ## 文件统计（MANIFEST.tsv，更新于 2026-04-22）
-- tracked files total: 315
 - data_processed: 168
 - data_raw: 67
 - scripts: 52
-- results/figures: 22
-- manuscript: 3
 - metadata: 2
 - env: 1
 
